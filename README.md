@@ -1,3 +1,9 @@
+![Splash](https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/b887946b-3c5c-45d2-9d90-f0a76d04be53)
+![Register](https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/6f50a938-668f-45f2-a7b4-ebee6a6f827a)
+![Main](https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/404d5054-fdc9-49b3-9a0b-3153f66c96ca)
+![Product](https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/de8d0bf0-48ed-404c-ae2d-7191b7e4eaa7)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
