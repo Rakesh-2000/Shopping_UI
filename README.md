@@ -1,9 +1,9 @@
 Screens : 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/b887946b-3c5c-45d2-9d90-f0a76d04be53" alt="Screenshot 2" style="width: 300px; margin-right:20px;"/>
-  <img src="https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/6f50a938-668f-45f2-a7b4-ebee6a6f827a" alt="Screenshot 1" style="width: 300px;"/>
-   <img src="https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/404d5054-fdc9-49b3-9a0b-3153f66c96ca" alt="Screenshot 2" style="width: 300px; margin-right:20px;"/>
-  <img src="https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/de8d0bf0-48ed-404c-ae2d-7191b7e4eaa7" alt="Screenshot 1" style="width: 300px;"/>
+  <img src="https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/b887946b-3c5c-45d2-9d90-f0a76d04be53" alt="Screenshot 2" style="width: 200px; margin-right:20px;"/>
+  <img src="https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/6f50a938-668f-45f2-a7b4-ebee6a6f827a" alt="Screenshot 1" style="width: 200px;"/>
+   <img src="https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/404d5054-fdc9-49b3-9a0b-3153f66c96ca" alt="Screenshot 2" style="width: 200px; margin-right:20px;"/>
+  <img src="https://github.com/Rakesh-2000/Shopping_UI/assets/115699080/de8d0bf0-48ed-404c-ae2d-7191b7e4eaa7" alt="Screenshot 1" style="width: 200px;"/>
 </div>
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
